@@ -1,8 +1,13 @@
-# pizza_house
+# Pizza House
 
-A new Flutter application.
+A Flutter app which showcase how to use Streams in Flutter and make apps reactive.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Here is a quick video of the app:
+
+https://youtu.be/SgCUlPks2fM
+
+Tutorial of the project:
+
+https://medium.com/@sagarsuri56/exploring-streams-in-flutter-4732e5524dd8
